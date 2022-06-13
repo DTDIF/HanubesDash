@@ -1,28 +1,14 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>HANubes</title>
+<link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <style>
-        h1 {
-            background-color:red;
-        }
-    </style>
-    <h1>Welkom bij HANubes</h1>
-     <ul>
-         <h2>susy01</h2>
-        <li><a href= "portal.dtdif.hanubes">Portainer</a></li>
-      </ul> 
-      <ul>
-          <h2>susy02</h2>
-        <li><a href="devops.dtdif.hanubes">Jenkins</a></li>
-        <li href="">Github</li>
-      </ul> 
-      <ul>
-        <h2>susy03</h2>
-        <li><a href="monitoring.dtdif.hanubes">Grafana</a></li>
-        <li><a href="support.dtdif.hanubes">OSTicket</a></li>
-      </ul> 
+<header id="showcase">
+    <h1>Welkom Admin</h1>
+    <p>In de Hanubes cloud</p>
+    <a href="/html/developer.html" class="button">Developer</a>
+    <a href="/html/student.html" class="button">Student</a>
+    <a href="/html/admin.html" class="button">Admin</a>
+  </header>
 </body>
 </html> 
